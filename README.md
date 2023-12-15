@@ -15,7 +15,7 @@
 
 ### Clone repo
 
-` > git clone `
+` > git clone https://github.com/clurrp/nestjs-request-response.git`
 
 ### Install Dependencies
 
